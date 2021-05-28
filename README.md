@@ -18,8 +18,4 @@
 
 ### <b>Premium is building in progress</b>
 
-I have not setup my credit card yet. Will be released later.
-
 ![Premium](https://cdn.discordapp.com/attachments/775954230032465930/847366310182125568/unknown.png)
-
-> Built with [2PG](https://github.com/twopg/Bot). Special thanks to [ADAMJR](https://github.com/theADAMJR).
